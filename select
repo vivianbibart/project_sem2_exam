@@ -1,0 +1,6 @@
+SELECT * FROM public.cities
+ORDER BY id ASC 
+
+SELECT * FROM public.routes
+ORDER BY id ASC 
+
